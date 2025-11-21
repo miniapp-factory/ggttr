@@ -1,0 +1,44 @@
+
+# 2025-11-21 11:36:26.462565
++Code the following app
++```
++Write a program in [specify programming language] that analyzes a given text and automatically extracts and highlights the most important keywords. The program should:
++
++Accept text input from the user (or from a file).
++
++Identify keywords using techniques such as word frequency, TF-IDF, or simple linguistic heuristics.
++
++Highlight the detected keywords in the original text (for example, by surrounding them with ** or coloring them if using a GUI/HTML output).
++
++Allow adjusting the number of keywords to extract.
++
++Include clear comments, structured code, and basic error handling.
++After writing the code, explain how the keyword extraction works
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-21 11:36:26.463022
++Code the following app
++```
++Write a program in [specify programming language] that analyzes a given text and automatically extracts and highlights the most important keywords. The program should:
++
++Accept text input from the user (or from a file).
++
++Identify keywords using techniques such as word frequency, TF-IDF, or simple linguistic heuristics.
++
++Highlight the detected keywords in the original text (for example, by surrounding them with ** or coloring them if using a GUI/HTML output).
++
++Allow adjusting the number of keywords to extract.
++
++Include clear comments, structured code, and basic error handling.
++After writing the code, explain how the keyword extraction works
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-21 11:37:21.269809
++apply changes
+
+# 2025-11-21 11:37:21.270208
++apply changes
